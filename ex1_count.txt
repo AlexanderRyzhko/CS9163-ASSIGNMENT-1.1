@@ -1,0 +1,5 @@
+ASS 10 x
+LOG x
+SUB x 1
+ASS R x
+JUM GRE x 0 2

@@ -1,0 +1,19 @@
+ASS 10 f
+ASS 1 r
+ASS f n
+LOG a 
+ASS 1 b
+JUM GRE n 1 7 16 
+LOG b
+ADD b a
+ASS R r
+ASS b a
+ASS r b
+SUB n 1
+ASS R n
+LOG r
+JUM GRE n 1 8 20
+JUM EQL f 1 17 19
+ASS 1 r
+LOG r
+ASS a a

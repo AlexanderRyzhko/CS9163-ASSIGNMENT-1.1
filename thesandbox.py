@@ -305,7 +305,7 @@ def DEC(instr):
 	if(len(instr[-1].split('.'))!=1):
 		print(ERROR[4])
 		exit(1)
-	if(len(instr[-1]>max_var_len):
+	if(len(instr[-1])>max_var_len):
 		print(ERROR[4])
 		exit(1)
 	try:
